@@ -10,8 +10,11 @@ The .frm and .frx files should be place in the same folder. But only .cls and .f
 ![Naming_UserForm_Controls](Images/Userform_for_Class_example.png)</br>
 The UserForm controls should be renamed as in the image above.
 
-The code contains 2 methods: Method1 is simpler method not using the class module.
-Method2 uses a class module to facilitate control event handling from one sub.
+The code contains 2 methods: 
+<ls>
+  <li>Method1 is simpler method not using the class module.</li>
+  <li>Method2 uses a class module to facilitate control event handling from one sub.</li>
+</ls>
 This behavior can be control from the UserForm ToggleButton.
 
 An extra barebone version is also included but commented and if the barebone version is required, the non-barebone version should be commented out.
