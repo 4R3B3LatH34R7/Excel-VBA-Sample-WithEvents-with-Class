@@ -17,5 +17,7 @@ The code in the files contains 2 methods:
 </ul>
 This behavior can be controlled from the UserForm ToggleButton.</br></br>
 
-An extra barebone version is also included but commented and if the barebone version is required, the non-barebone version should be commented out.
+An extra barebone version is also included but commented.</br>
+If the barebone version is required, the non-barebone version should be commented out.</br>
+The barebone version requires the prescence of only 3 Label controls on the UserForm. This is just to allow copy/pasting code by opening the .frm and .cls files here in a webbrowser rather than having to download all 3 files and importing into the VBProject file.
 The commenting and un-commenting <b>must</b> be done in both UserForm code module and Class module.
