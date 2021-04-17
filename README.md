@@ -15,7 +15,7 @@ The code in the files contains 2 methods:
   <li>Method1 is simpler method not using the class module.</li>
   <li>Method2 uses a class module to facilitate control event handling from one sub.</li>
 </ul>
-This behavior can be controlled from the UserForm ToggleButton.</br>
+This behavior can be controlled from the UserForm ToggleButton.</br></br>
 
 An extra barebone version is also included but commented and if the barebone version is required, the non-barebone version should be commented out.
 The commenting and un-commenting <b>must</b> be done in both UserForm code module and Class module.
