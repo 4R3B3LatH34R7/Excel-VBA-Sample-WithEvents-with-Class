@@ -4,3 +4,4 @@ On April 16th, 2021, someone on Reddit asked a question about how to write effic
 I have decided to help answer that question.
 After I posted my answer, that post was deleted.
 Therefore, in order not to waste my time and energy thinking about a solution for that question, I am hereby sharing that code.
+![Naming_UserForm_Controls](Images/Userform_for_Class_example.png)</br>
