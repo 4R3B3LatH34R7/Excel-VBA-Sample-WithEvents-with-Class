@@ -6,7 +6,8 @@ But after I posted my answer, that post was deleted.</br>
 
 Therefore, in order not to waste my time and energy thinking about a solution for that question, I am hereby sharing that code.</br>
 
-The .frm and .frx files should be place in the same folder. But only .cls and .frm needs importing from VBIDE-File-Import menu.
+The .frm and .frx files should be place in the same folder. But only .cls and .frm needs importing from VBIDE-File-Import menu.</br>
+
 ![Naming_UserForm_Controls](Images/Userform_for_Class_example.png)</br>
 The UserForm controls should be renamed as in the image above.
 
