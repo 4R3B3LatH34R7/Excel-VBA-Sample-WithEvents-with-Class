@@ -24,10 +24,6 @@ The barebone version requires the prescence of only 3 Label controls on the User
 This is just to allow copy/pasting code by opening the .frm and .cls files here in a webbrowser rather than having to download all 3 files and importing into the VBProject file.
 The commenting and un-commenting <b>must</b> be done in both UserForm code module and Class module.
 
- <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/knlqwk4f5p3jdsdf2q4k" alt="trackgit-views" />
-</a>
-
 ***
 ## License
 I don't actually like/want/wish to apply CC BY-SA license to what I share, really!\
@@ -45,5 +41,6 @@ This work is licensed under a
 [cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
 ***
  <a href="https://trackgit.com">
-<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/kybbha4tz2nl5fumte8k" alt="trackgit-views" />
+<img src="https://us-central1-trackgit-analytics.cloudfunctions.net/token/ping/knlqwk4f5p3jdsdf2q4k" alt="trackgit-views" />
 </a>
+
